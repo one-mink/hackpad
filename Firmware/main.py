@@ -42,6 +42,7 @@ keyboard.keymap = [
 encoder_handler.map = [
     ((KC.LCTL(KC.PPLS), KC.LCTL(KC.PMNS)),), 
     ((KC.VOLU, KC.VOLD),),                   
+    
 ]
 
 if __name__ == '__main__':
